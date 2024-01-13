@@ -1,1 +1,0 @@
-setSpeedAsync=function(){setInterval(async()=>{const e=(await new Promise((e,t)=>{chrome.storage.local.get(a=>{chrome.runtime.lastError?t(chrome.runtime.lastError):e(a)})})).speed||1;for(let t of document.getElementsByTagName("video"))t.playbackRate=e;for(let t of document.getElementsByTagName("audio"))t.playbackRate=e},5e3)},setSpeedAsync();

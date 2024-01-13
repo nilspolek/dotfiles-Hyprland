@@ -1,1 +1,0 @@
-setSpeedSync=function(e){(e=>new Promise(t=>setTimeout(t,e)))(100).then(()=>{chrome.storage.local.get(["speed"],function(e){document.querySelector("video").playbackRate=e.speed,console.log("speed changed to "+e.speed)})})};var target=document.querySelector("video");console.log(target);var default_rate=1;setSpeedSync(default_rate);

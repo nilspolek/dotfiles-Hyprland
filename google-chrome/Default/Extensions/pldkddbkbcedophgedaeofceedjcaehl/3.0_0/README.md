@@ -1,2 +1,0 @@
-# speedup
-  Updated Speedup Extension

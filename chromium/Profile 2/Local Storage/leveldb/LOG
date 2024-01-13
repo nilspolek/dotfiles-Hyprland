@@ -1,6 +1,0 @@
-2024/01/13-13:51:46.088 4 Reusing MANIFEST /home/nils/.config/chromium/Profile 2/Local Storage/leveldb/MANIFEST-000001
-2024/01/13-13:51:46.091 4 Recovering log #3
-2024/01/13-13:51:46.093 4 Reusing old log /home/nils/.config/chromium/Profile 2/Local Storage/leveldb/000003.log 
-2024/01/13-13:52:04.075 4 Level-0 table #5: started
-2024/01/13-13:52:04.086 4 Level-0 table #5: 73741 bytes OK
-2024/01/13-13:52:04.093 4 Delete type=0 #3

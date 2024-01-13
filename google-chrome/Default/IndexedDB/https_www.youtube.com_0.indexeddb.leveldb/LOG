@@ -1,5 +1,0 @@
-2024/01/13-14:28:49.719 8ce Creating DB /home/nils/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2024/01/13-14:28:49.728 8ce Reusing MANIFEST /home/nils/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/13-15:36:35.131 8cb Level-0 table #5: started
-2024/01/13-15:36:35.143 8cb Level-0 table #5: 1236980 bytes OK
-2024/01/13-15:36:35.150 8cb Delete type=0 #3

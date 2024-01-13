@@ -1,6 +1,0 @@
-2024/01/13-15:54:58.433 88f Reusing MANIFEST /home/nils/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/01/13-15:54:58.442 88f Recovering log #43
-2024/01/13-15:54:58.446 88f Reusing old log /home/nils/.config/google-chrome/Default/Sync Data/LevelDB/000043.log 
-2024/01/13-15:55:24.245 898 Level-0 table #47: started
-2024/01/13-15:55:24.250 898 Level-0 table #47: 141342 bytes OK
-2024/01/13-15:55:24.256 898 Delete type=0 #43
