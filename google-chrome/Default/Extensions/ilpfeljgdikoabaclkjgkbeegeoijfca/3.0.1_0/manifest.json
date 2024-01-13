@@ -1,0 +1,36 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "styles.css" ],
+      "js": [ "content_script.js" ],
+      "matches": [ "*://static.crunchyroll.com/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'sha256-3Ysffha/L9RFJ1cEzjlxPSHl7yyXbbb05h9eNgaAqgE='; object-src 'self'",
+   "description": "Synchronize Crunchyroll Videos and Skip Intros",
+   "icons": {
+      "128": "images/get_started128.png",
+      "16": "images/get_started16.png",
+      "32": "images/get_started32.png",
+      "48": "images/get_started48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp2LLXRog6abmhzP7SS2BOrwxudvTrfpid268GOlvCSxs7g6OZeBq4D06/5fUjeLRMmHK8QqNu4/AheGeqFAkiTsE4H4i8+1N+VhbxAFEoMoA8s8R3njUUkrIcNanUKxZDsv7OphK842a08JPjSIxy9rDnU934DA7o+3tCVkYtNltxSqU8sR7BspT4xbpBsMtmsKysQ+El3GehRKG3NwRKVD8h2Z3eSO/avk7HwISzA5c1JRt57NGxScR0NLeemw1KvkYVv+6Sdt0S1g9oS43SPpC3Xt4vHmrgV7VnayXLzt8GmTqvDzq4e0PA0nKoruwOyJels7g6R4mS+Q9DTEUfQIDAQAB",
+   "manifest_version": 2,
+   "name": "Roll Together",
+   "options_page": "options.html",
+   "page_action": {
+      "default_icon": {
+         "128": "images/get_started128.png",
+         "16": "images/get_started16.png",
+         "32": "images/get_started32.png",
+         "48": "images/get_started48.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "permissions": [ "storage", "declarativeContent", "*://www.crunchyroll.com/*", "*://static.crunchyroll.com/*", "*://roll-together-intro-skip.herokuapp.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.1"
+}

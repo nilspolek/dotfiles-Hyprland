@@ -1,0 +1,15 @@
+2024/01/13-15:15:55.437 8ca Reusing MANIFEST /home/nils/.config/google-chrome/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/13-15:15:55.437 8ca Recovering log #4
+2024/01/13-15:15:55.437 8ca Reusing old log /home/nils/.config/google-chrome/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/000004.log 
+2024/01/13-15:35:45.308 8cb Level-0 table #8: started
+2024/01/13-15:35:45.312 8cb Level-0 table #8: 153318 bytes OK
+2024/01/13-15:35:45.318 8cb Delete type=0 #4
+2024/01/13-15:35:45.318 8cb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/13-15:35:45.318 8cb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x000\xe42\xd0xB\x00\x03\x00\x00\x00\x00\x00\x00F@' @ 1675 : 1
+2024/01/13-15:35:45.318 8cb Compacting 1@1 + 1@2 files
+2024/01/13-15:35:45.322 8cb Generated table #9@1: 66 keys, 1583 bytes
+2024/01/13-15:35:45.322 8cb Compacted 1@1 + 1@2 files => 1583 bytes
+2024/01/13-15:35:45.328 8cb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/13-15:35:45.328 8cb Delete type=2 #5
+2024/01/13-15:35:45.328 8cb Delete type=2 #8
+2024/01/13-15:35:45.328 8cb Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x000\xe42\xd0xB\x00\x03\x00\x00\x00\x00\x00\x00F@' @ 1675 : 1 .. (end); will stop at (end)

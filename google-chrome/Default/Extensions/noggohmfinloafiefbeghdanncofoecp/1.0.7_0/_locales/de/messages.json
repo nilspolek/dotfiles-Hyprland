@@ -1,0 +1,90 @@
+{
+   "addbtntext": {
+      "description": "used for hinzufuegen button",
+      "message": "Hinzufügen"
+   },
+   "choosefavorite": {
+      "description": "used in settings for description",
+      "message": "Wähle deine meistgenutzten Suchmaschinen und suche direkt mit nur einem Click."
+   },
+   "close": {
+      "description": "close button for hinzufuegen modal",
+      "message": "Schließen"
+   },
+   "contextmenusettings": {
+      "description": "used in context menu for the settings button",
+      "message": "Suchanbieter einstellen"
+   },
+   "err_includehttp": {
+      "description": "Error message for hinzufügen modal",
+      "message": "Der Suchlink muss mit http anfangen."
+   },
+   "err_invaliddomain": {
+      "description": "Error message for hinzufügen modal",
+      "message": "Die Domain existiert nicht."
+   },
+   "err_namealreadyexists": {
+      "description": "Error message for hinzufügen modal",
+      "message": "Der Name der Suchmaschine existiert bereits."
+   },
+   "err_nonameandsearchlink": {
+      "description": "Error message for hinzufügen modal",
+      "message": "Gib den Namen und den Suchlink der Suchmaschine ein."
+   },
+   "err_nosearchkey": {
+      "description": "Error message for hinzufügen modal",
+      "message": "Der Suchlink muss {SEARCH} beinhalten."
+   },
+   "err_nosearchlink": {
+      "description": "Error message for hinzufügen modal",
+      "message": "Das Suchlink Feld darf nicht leer sein."
+   },
+   "locale": {
+      "description": "used to send the uninstall url in the correct language",
+      "message": "de"
+   },
+   "newname": {
+      "description": "used for name placeholder in add new modal",
+      "message": "Name des Suchanbieters"
+   },
+   "newsearchlink": {
+      "description": "used for search link placeholder in add new modal",
+      "message": "Suchlink...(z.B. https://domain/?q={SEARCH})"
+   },
+   "nosearchengineschosen": {
+      "description": "used in popup when no search engines were chosen to use",
+      "message": "Du hast keine Suchanbieter ausgewählt. \nBitte gehe zu den Einstellungen, \num bevorzugte Suchanbieter hier anzuzeigen"
+   },
+   "popupsettingsbutton": {
+      "description": "used in popup for the settings button",
+      "message": "Suchanbieter einstellen"
+   },
+   "question": {
+      "description": "anleitung zur eingabe des suchlinks",
+      "message": "\nAnleitung zur Eingabe des Suchlinks:\n\n  1. Rufe die Hauptdomain der gewünschten\n  Suchmaschine in deinem Browser auf.\n\n  2. Gebe den Suchbegriff {SEARCH} ein und betätige\n  die Suche des Begriffs.\n\n  3. Kopiere den Link, der nun in deiner Adressleiste\n  erscheint, in das hier vorgesehene Eingabefeld.\n\n"
+   },
+   "savebtn": {
+      "description": "used in add new modal to for saving the input",
+      "message": "Hinzufügen"
+   },
+   "searchwithbeginning": {
+      "description": "used in popup form placeholder, at the beginning of the sentence",
+      "message": "Mit "
+   },
+   "searchwithend": {
+      "description": "used in popup form placeholder, at the end of the sentence",
+      "message": " suchen..."
+   },
+   "standardcaption": {
+      "description": "used to set standard search engine",
+      "message": "Standard Suchanbieter"
+   },
+   "standardengine": {
+      "description": "used in settings for description",
+      "message": "Dein erster aktivierter Suchanbieter wird auch als Standard Suchanbieter in der Adresszeile benutzt."
+   },
+   "whichsearchengine": {
+      "description": "used in settings for description",
+      "message": "Welche Suchmaschine nutzt du?"
+   }
+}

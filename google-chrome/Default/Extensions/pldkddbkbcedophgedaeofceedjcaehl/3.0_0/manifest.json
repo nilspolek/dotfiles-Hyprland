@@ -1,0 +1,25 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/jquery-3.4.1.min.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "js": [ "js/jquery-3.4.1.min.js", "js/content.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Controls the speed for online streaming for Netflix, Amazon Prime, Youtube, Twitch, Reddit and ALL others.",
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqLKHVdNgPFHhrgSbX+wDdIGUIOuibMkLUJsvBHpCLkp9Ep+tlnGN5xETJQWE0TzDLdvJHOnUbLyjS3TOkxdow87w1rGWLOncegniVFjkbUHnpmu/WvW6tHudDAGVgLuBn6AaeXVIDAj2OuLXGG+GzMPWPNn5Q8KPBlXduelLYVFFA4XovitLBj+Ci2zwuLfrD5R61x3uGTz3CyAqkc/JqF1vBIOzO9hoz7ybcIJcXNDs802jDb9WvqdgN6rebmLuuGnU44icmdKJyz35UcEkkfR+eH86Q6w622sI424cKhQ71SSh8OWZsKJmrBxuRqv56kBfi5V0yUouwU04hbd2EwIDAQAB",
+   "manifest_version": 2,
+   "name": "SpeedUp: Netflix, Prime videos",
+   "permissions": [ "storage", "*://*/*" ],
+   "short_name": "SpeedUp",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0"
+}

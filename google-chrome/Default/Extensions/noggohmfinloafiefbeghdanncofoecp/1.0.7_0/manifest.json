@@ -1,0 +1,28 @@
+{
+   "background": {
+      "scripts": [ "main.js" ]
+   },
+   "browser_action": {
+      "browser_style": true,
+      "default_icon": "img/lupe48x48grau.png",
+      "default_popup": "popup/popup.html",
+      "default_title": "FindBox"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "https://link-to.net/*", "https://linkvertise.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "",
+   "icons": {
+      "48": "img/lupe48x48blau.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmbMrC38X8suY9LZQKZMSQlU2wl/M0+DgxHbuW1gKpwNaAi4wd7JNQkAUcI8cBPN+LUVurh1sBjvIu5GlkxLsNoMqjPsOXXUhTuN7l0/IrkSjC6ZJgjzzlV3XfwB+LO5IYypXd6OTDe08OhsS0kPKAjDPZDyeMbKSyrUU9U/zAv/duuN6XZTxSkWh4talSPjXMGGSNnYrXHq45CqsZpNUF7QsId+6LiT6Nid+a/yH+ptcnGBzDamZ/kwk1dH8CgCv37RLW6Pliu3KwYgDcqQzZPxi97WQzjLqICx6bx267D+yhenCfzy8A8fhNioMUadG0Q56O1bKOCQyOd1uHn9+gQIDAQAB",
+   "manifest_version": 2,
+   "name": "FindBox",
+   "permissions": [ "https://link-to.net/*", "https://linkvertise.com/*", "contextMenus", "tabs", "webRequest", "\u003Call_urls>", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.7"
+}

@@ -1,0 +1,257 @@
+{
+   "accept": {
+      "message": "J'accepte"
+   },
+   "addFastBackwardShortcut": {
+      "message": "Ajouter raccourci reculer"
+   },
+   "addFastForwardShortcut": {
+      "message": "Ajouter raccourci avancer"
+   },
+   "addSpeedDownShortcut": {
+      "message": "Ajouter un raccourci pour ralentir"
+   },
+   "addSpeedUpShortcut": {
+      "message": "Ajouter un raccourci d'accélération"
+   },
+   "autoSkip": {
+      "message": "Saut automatique"
+   },
+   "availability_date": {
+      "message": "date de disponibilité : $date$",
+      "placeholders": {
+         "date": {
+            "content": "$1"
+         }
+      }
+   },
+   "availability_time": {
+      "message": "heure de disponibilité :$time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "backup": {
+      "message": "Sauvegarde"
+   },
+   "backupAndReset": {
+      "message": "Réinitialisation et sauvegarde"
+   },
+   "blur": {
+      "message": "Flouter"
+   },
+   "buttons": {
+      "message": "Boutons"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "confirmBackup": {
+      "message": "La sauvegarde actuelle sera supprimée."
+   },
+   "confirmReset": {
+      "message": "Les paramètres actuels seront supprimés."
+   },
+   "confirmRestore": {
+      "message": "Les paramètres actuels seront supprimés."
+   },
+   "crunchyrollIntro": {
+      "message": "Crunchyroll Intro"
+   },
+   "default": {
+      "message": "Défaut"
+   },
+   "delete": {
+      "message": "Effacer"
+   },
+   "disableNumpad": {
+      "message": "Désactiver le pavé numérique"
+   },
+   "editFastBackwardShortcut": {
+      "message": "Éditer raccourci reculer"
+   },
+   "editFastForwardShortcut": {
+      "message": "Éditer raccourci avancer"
+   },
+   "editSpeedDownShortcut": {
+      "message": "Modifier le raccourci de réduction de la vitesse"
+   },
+   "editSpeedUpShortcut": {
+      "message": "Modifier le raccourci d'accélération"
+   },
+   "extDescription": {
+      "message": "Améliore Crunchyroll: mode théâtre, sauter intros/outros, marquer comme vu/pas vu, boutons d'avance/retour rapide, ..."
+   },
+   "extName": {
+      "message": "Improve Crunchyroll"
+   },
+   "fastBackward": {
+      "message": "Reculer"
+   },
+   "fastBackwardButtons": {
+      "message": "Boutons reculer"
+   },
+   "fastBackwardShortcuts": {
+      "message": "Raccourcis reculer"
+   },
+   "fastForward": {
+      "message": "Avancer"
+   },
+   "fastForwardButtons": {
+      "message": "Boutons avancer"
+   },
+   "fastForwardShortcuts": {
+      "message": "Raccourcis avancer"
+   },
+   "fullscreenMode": {
+      "message": "Mode plein écran"
+   },
+   "general": {
+      "message": "Général"
+   },
+   "headerOnHover": {
+      "message": "En-tête au survol"
+   },
+   "hide": {
+      "message": "Cacher"
+   },
+   "hideDimScreen": {
+      "message": "Masquer l'écran sombre"
+   },
+   "hideSkipButton": {
+      "message": "Masquer le bouton de saut"
+   },
+   "hideSubtitles": {
+      "message": "Masquer les sous-titres"
+   },
+   "hideUi": {
+      "message": "Masquer UI"
+   },
+   "markAllNext": {
+      "message": "Marquer tous les suivant"
+   },
+   "markAllPrevious": {
+      "message": "Marquer tous les précédents"
+   },
+   "markAsNotWatched": {
+      "message": "Marquer comme non regardé"
+   },
+   "markAsWatched": {
+      "message": "Marquer comme regardé"
+   },
+   "markOnlyThisOne": {
+      "message": "Ne marquez que celui-ci"
+   },
+   "none": {
+      "message": "Rien"
+   },
+   "normal": {
+      "message": "Normal"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "openHeaderMenuOnHover": {
+      "message": "Ouvrir le menu d'en-tête au survolr"
+   },
+   "pictureInPicture": {
+      "message": "Picture-in-Picture"
+   },
+   "playbackRate": {
+      "message": "Vitesse de lecture"
+   },
+   "player": {
+      "message": "Lecteur vidéo"
+   },
+   "pressAnyKey": {
+      "message": "Appuyez sur une touche"
+   },
+   "reset": {
+      "message": "Réinitialiser"
+   },
+   "restore": {
+      "message": "Restaurer"
+   },
+   "runnerThumbnail": {
+      "message": "Vignette de la barre de progression"
+   },
+   "save": {
+      "message": "Sauvegarder"
+   },
+   "scrollbar": {
+      "message": "Barre de défilement"
+   },
+   "settings": {
+      "message": "Réglages"
+   },
+   "shortcuts": {
+      "message": "Raccourcis"
+   },
+   "show": {
+      "message": "Afficher"
+   },
+   "skip": {
+      "message": "Sauter"
+   },
+   "skipEvents": {
+      "message": "Sauter des événements"
+   },
+   "skipShortcut": {
+      "message": "Sauter"
+   },
+   "skipTo": {
+      "message": "IGNORER A : $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "speedDown": {
+      "message": "Ralentir"
+   },
+   "speedDownShortcuts": {
+      "message": "Accélérer les raccourcis"
+   },
+   "speedUp": {
+      "message": "Accélérer"
+   },
+   "speedUpShortcuts": {
+      "message": "Accélérer les raccourcis"
+   },
+   "successfullyBackup": {
+      "message": "Sauvegarde réussie."
+   },
+   "successfullyReseted": {
+      "message": "Réinitialisé avec succès."
+   },
+   "successfullyRestored": {
+      "message": "Restauré avec succès."
+   },
+   "theaterMode": {
+      "message": "Mode théâtre"
+   },
+   "toggleHideUi": {
+      "message": "Masquer l'interface"
+   },
+   "unset": {
+      "message": "Non défini"
+   },
+   "value": {
+      "message": "Valeur"
+   },
+   "whileFullscreen": {
+      "message": "En plein écran"
+   },
+   "whilePlaying": {
+      "message": "Pendant la lecture"
+   },
+   "whilePlayingAndFullscreen": {
+      "message": "Pendant la lecture et en plein écran"
+   },
+   "whilePlayingOrFullscreen": {
+      "message": "Pendant la lecture vidéo ou en plein écran"
+   }
+}

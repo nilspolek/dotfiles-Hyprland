@@ -1,0 +1,14 @@
+2024/01/13-14:27:19.885 8da Reusing MANIFEST /home/nils/.config/google-chrome/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/13-14:27:19.885 8da Recovering log #77
+2024/01/13-14:27:19.885 8da Reusing old log /home/nils/.config/google-chrome/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb/000077.log 
+2024/01/13-14:27:19.885 8da Delete type=2 #75
+2024/01/13-14:27:19.898 8e4 Level-0 table #82: started
+2024/01/13-14:27:19.902 8e4 Level-0 table #82: 693 bytes OK
+2024/01/13-14:27:19.908 8e4 Delete type=0 #77
+2024/01/13-14:27:19.908 8da Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\x05' @ 448 : 1
+2024/01/13-14:27:19.908 8da Compacting 1@0 + 1@1 files
+2024/01/13-14:27:19.911 8da Generated table #83@0: 44 keys, 1197 bytes
+2024/01/13-14:27:19.911 8da Compacted 1@0 + 1@1 files => 1197 bytes
+2024/01/13-14:27:19.918 8da compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/13-14:27:19.918 8da Delete type=2 #82
+2024/01/13-14:27:19.918 8da Manual compaction at level-0 from '\x00\x16\x00\x00\x05' @ 448 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)

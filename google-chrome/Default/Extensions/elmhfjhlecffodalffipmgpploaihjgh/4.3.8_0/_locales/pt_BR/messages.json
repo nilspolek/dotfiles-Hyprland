@@ -1,0 +1,257 @@
+{
+   "accept": {
+      "message": "Aceitar"
+   },
+   "addFastBackwardShortcut": {
+      "message": "Adicionar atalho de voltar"
+   },
+   "addFastForwardShortcut": {
+      "message": "Adicionar atalho de pular"
+   },
+   "addSpeedDownShortcut": {
+      "message": "Adicionar atalho para diminuir a velocidade"
+   },
+   "addSpeedUpShortcut": {
+      "message": "Adicionar atalho de aceleração"
+   },
+   "autoSkip": {
+      "message": "Pular automático"
+   },
+   "availability_date": {
+      "message": "disponibilidade data: $date$",
+      "placeholders": {
+         "date": {
+            "content": "$1"
+         }
+      }
+   },
+   "availability_time": {
+      "message": " hora: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "backup": {
+      "message": "Backup"
+   },
+   "backupAndReset": {
+      "message": "Backup e redefinição"
+   },
+   "blur": {
+      "message": "Borrão"
+   },
+   "buttons": {
+      "message": "Botões"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "confirmBackup": {
+      "message": "O backup atual será excluído."
+   },
+   "confirmReset": {
+      "message": "As configurações atuais serão excluídas."
+   },
+   "confirmRestore": {
+      "message": "As configurações atuais serão excluídas."
+   },
+   "crunchyrollIntro": {
+      "message": "Crunchyroll Abertura"
+   },
+   "default": {
+      "message": "Padrão"
+   },
+   "delete": {
+      "message": "Excluir"
+   },
+   "disableNumpad": {
+      "message": "Desabilitar o NumPad"
+   },
+   "editFastBackwardShortcut": {
+      "message": "Editar atalho de voltar"
+   },
+   "editFastForwardShortcut": {
+      "message": "Editar atalho de pular"
+   },
+   "editSpeedDownShortcut": {
+      "message": "Editar atalho para diminuir a velocidade"
+   },
+   "editSpeedUpShortcut": {
+      "message": "Editar atalho de aceleração"
+   },
+   "extDescription": {
+      "message": "Melhore Crunchyroll: modo de teatro, pular introduções/outros, marcar como visto/não visto, botões voltar/pular, ..."
+   },
+   "extName": {
+      "message": "Improve Crunchyroll"
+   },
+   "fastBackward": {
+      "message": "Voltar"
+   },
+   "fastBackwardButtons": {
+      "message": "Voltar botões"
+   },
+   "fastBackwardShortcuts": {
+      "message": "Atalhos de voltar"
+   },
+   "fastForward": {
+      "message": "Pular"
+   },
+   "fastForwardButtons": {
+      "message": "Pular botões"
+   },
+   "fastForwardShortcuts": {
+      "message": "Atalhos de pular"
+   },
+   "fullscreenMode": {
+      "message": "Modo tela cheia"
+   },
+   "general": {
+      "message": "Geral"
+   },
+   "headerOnHover": {
+      "message": "Cabeçalho ao passar o mouse"
+   },
+   "hide": {
+      "message": "Esconder"
+   },
+   "hideDimScreen": {
+      "message": "Ocultar tela escurecida"
+   },
+   "hideSkipButton": {
+      "message": "Ocultar botão pular"
+   },
+   "hideSubtitles": {
+      "message": "Ocultar legendas"
+   },
+   "hideUi": {
+      "message": "Ocultar UI"
+   },
+   "markAllNext": {
+      "message": "Marcar todas os próximos"
+   },
+   "markAllPrevious": {
+      "message": "Marcar todas as anteriores"
+   },
+   "markAsNotWatched": {
+      "message": "Marcar como não assistidod"
+   },
+   "markAsWatched": {
+      "message": "Marcar como assistido"
+   },
+   "markOnlyThisOne": {
+      "message": "Marque apenas este"
+   },
+   "none": {
+      "message": "Nenhum"
+   },
+   "normal": {
+      "message": "Normal"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "openHeaderMenuOnHover": {
+      "message": "Abra o menu de cabeçalho ao passar o mouse"
+   },
+   "pictureInPicture": {
+      "message": "Picture-in-Picture"
+   },
+   "playbackRate": {
+      "message": "Velocidade de playback"
+   },
+   "player": {
+      "message": "Player"
+   },
+   "pressAnyKey": {
+      "message": "Pressione qualquer tecla"
+   },
+   "reset": {
+      "message": "Restaurar"
+   },
+   "restore": {
+      "message": "Restore"
+   },
+   "runnerThumbnail": {
+      "message": "Miniatura da barra de progresso"
+   },
+   "save": {
+      "message": "Salve"
+   },
+   "scrollbar": {
+      "message": "Barra de rolagem"
+   },
+   "settings": {
+      "message": "Configurações"
+   },
+   "shortcuts": {
+      "message": "Atalhos"
+   },
+   "show": {
+      "message": "Mostrar"
+   },
+   "skip": {
+      "message": "Pular"
+   },
+   "skipEvents": {
+      "message": "Pular eventos"
+   },
+   "skipShortcut": {
+      "message": "Pular"
+   },
+   "skipTo": {
+      "message": "PULAR PARA: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "speedDown": {
+      "message": "Diminua a velocidade"
+   },
+   "speedDownShortcuts": {
+      "message": "Atalhos mais rápidos"
+   },
+   "speedUp": {
+      "message": "Acelerar"
+   },
+   "speedUpShortcuts": {
+      "message": "Acelere os atalhos"
+   },
+   "successfullyBackup": {
+      "message": "Backup com sucesso."
+   },
+   "successfullyReseted": {
+      "message": "Reinicializado com sucesso."
+   },
+   "successfullyRestored": {
+      "message": "Restaurado com sucesso."
+   },
+   "theaterMode": {
+      "message": "Modo de teatro"
+   },
+   "toggleHideUi": {
+      "message": "Alternar ocultar UI"
+   },
+   "unset": {
+      "message": "Não definido"
+   },
+   "value": {
+      "message": "Valor"
+   },
+   "whileFullscreen": {
+      "message": "Enquanto em tela cheia"
+   },
+   "whilePlaying": {
+      "message": "Enquanto é reproduzido"
+   },
+   "whilePlayingAndFullscreen": {
+      "message": "Durante a reprodução e em tela cheia"
+   },
+   "whilePlayingOrFullscreen": {
+      "message": "Durante a reprodução ou em tela cheia"
+   }
+}

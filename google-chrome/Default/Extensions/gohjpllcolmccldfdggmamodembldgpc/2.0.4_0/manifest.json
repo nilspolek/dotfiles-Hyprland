@@ -1,0 +1,35 @@
+{
+   "action": {
+      "default_popup": "popup.01c765a5.html"
+   },
+   "author": "Jarno Le Conté",
+   "background": {
+      "service_worker": "background.58565342.js"
+   },
+   "content_scripts": [ {
+      "css": [ "content-script.d43d51f5.css" ],
+      "js": [ "content-script.430647cf.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Play with little shimejis while browsing the web.",
+   "externally_connectable": {
+      "matches": [ "*://*.shimejis.xyz/*" ]
+   },
+   "icons": {
+      "128": "icon_128x128.39c76058.png",
+      "16": "icon_16x16.1f300c36.png",
+      "32": "icon_32x32.515409b1.png",
+      "48": "icon_48x48.7663bd0c.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5FcRxdTLgggJpXp/u2DNgZpgJBUT6CeQDtwNspUego1EY6oHb2u9osW+HnROreElVLpbhv1U27dglphCtQF9KXyShIZ4Dxa2lhfOgVWo2zi7h4WUD32cjJ7I8Jl6zn2MSON+8f6+CW5i2Vahh0a0qq+kmjIezEsxn8h8aGUkXWJN8KLoHA3d94bW1VCquU0BFfh9R5dWPPd+5bgtNQKK4HNGoWe1CQMlrH1Hsm2VxqZxtlp07r9pqVjK9GQkIFPjMoZpz/bBa2vmXiyWtEpocIyDkt61O04loPC2TSEhhTFxx1W0KLOn4oEyUB9Htqies0G0Q/1lnxX/dMytnX/duwIDAQAB",
+   "manifest_version": 3,
+   "name": "Shimeji Browser Extension",
+   "permissions": [ "contextMenus", "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.4",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "fonts/balsamiq-sans-v12-cyrillic_cyrillic-ext_latin_latin-ext-700.woff2", "fonts/balsamiq-sans-v12-cyrillic_cyrillic-ext_latin_latin-ext-regular.woff2" ]
+   } ]
+}

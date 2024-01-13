@@ -1,0 +1,49 @@
+@define-color main #002b36;
+@define-color main2 #073642;
+@define-color secound #647A82;
+@define-color text #FFF;
+
+window {
+margin: 0px;
+border-radius: 15px;
+background-color: @main2;
+}
+
+#input {
+margin: 5px;
+border: none;
+color: @secound;
+background-color: @main;
+}
+
+#inner-box {
+margin: 5px;
+border-radius: 15px;
+background-color: @main;
+}
+
+#outer-box {
+margin: 5px;
+border-radius: 15px;
+background-color: @main;
+}
+
+#scroll {
+margin: 0px;
+border: none;
+color: @main2;
+}
+
+#text {
+margin: 5px;
+border: none;
+color: @text;
+}
+#entry{
+  border-radius: 15px;
+  border: none;
+}
+
+#entry:selected {
+background-color: @secound;
+}

@@ -1,0 +1,9 @@
+2024/01/13-15:04:23.495 227d Reusing MANIFEST /home/nils/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/01/13-15:04:23.501 227d Recovering log #10
+2024/01/13-15:04:23.502 227d Reusing old log /home/nils/.config/discord/Local Storage/leveldb/000010.log 
+2024/01/13-15:06:52.066 24bf Level-0 table #13: started
+2024/01/13-15:06:52.075 24bf Level-0 table #13: 727050 bytes OK
+2024/01/13-15:06:52.080 24bf Delete type=0 #10
+2024/01/13-15:08:03.005 2520 Level-0 table #15: started
+2024/01/13-15:08:03.014 2520 Level-0 table #15: 2061905 bytes OK
+2024/01/13-15:08:03.020 2520 Delete type=0 #12

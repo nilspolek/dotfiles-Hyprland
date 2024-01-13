@@ -1,0 +1,257 @@
+{
+   "accept": {
+      "message": "Accept"
+   },
+   "addFastBackwardShortcut": {
+      "message": "Add fast backward shortcut"
+   },
+   "addFastForwardShortcut": {
+      "message": "Add fast forward shortcut"
+   },
+   "addSpeedDownShortcut": {
+      "message": "Add speed down shortcut"
+   },
+   "addSpeedUpShortcut": {
+      "message": "Add speed up shortcut"
+   },
+   "autoSkip": {
+      "message": "Auto skip"
+   },
+   "availability_date": {
+      "message": "availability date: $date$",
+      "placeholders": {
+         "date": {
+            "content": "$1"
+         }
+      }
+   },
+   "availability_time": {
+      "message": "availability time: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "backup": {
+      "message": "Backup"
+   },
+   "backupAndReset": {
+      "message": "Backup and reset"
+   },
+   "blur": {
+      "message": "Blur"
+   },
+   "buttons": {
+      "message": "Buttons"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "confirmBackup": {
+      "message": "The current backup will be deleted."
+   },
+   "confirmReset": {
+      "message": "The current settings will be deleted."
+   },
+   "confirmRestore": {
+      "message": "The current settings will be deleted."
+   },
+   "crunchyrollIntro": {
+      "message": "Crunchyroll Intro"
+   },
+   "default": {
+      "message": "Default"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "disableNumpad": {
+      "message": "Disable NumPad"
+   },
+   "editFastBackwardShortcut": {
+      "message": "Edit fast backward shortcut"
+   },
+   "editFastForwardShortcut": {
+      "message": "Edit fast forward shortcut"
+   },
+   "editSpeedDownShortcut": {
+      "message": "Edit speed down shortcut"
+   },
+   "editSpeedUpShortcut": {
+      "message": "Edit speed up shortcut"
+   },
+   "extDescription": {
+      "message": "Enhance Crunchyroll: theater mode, skip intros/outros, mark as watched/not watched, fast forward/backward buttons, ..."
+   },
+   "extName": {
+      "message": "Improve Crunchyroll"
+   },
+   "fastBackward": {
+      "message": "Fast backward"
+   },
+   "fastBackwardButtons": {
+      "message": "Fast backward buttons"
+   },
+   "fastBackwardShortcuts": {
+      "message": "Fast backward shortcuts"
+   },
+   "fastForward": {
+      "message": "Fast forward"
+   },
+   "fastForwardButtons": {
+      "message": "Fast forward buttons"
+   },
+   "fastForwardShortcuts": {
+      "message": "Fast forward shortcuts"
+   },
+   "fullscreenMode": {
+      "message": "Fullscreen mode"
+   },
+   "general": {
+      "message": "General"
+   },
+   "headerOnHover": {
+      "message": "Header on hover"
+   },
+   "hide": {
+      "message": "Hide"
+   },
+   "hideDimScreen": {
+      "message": "Hide dim screen"
+   },
+   "hideSkipButton": {
+      "message": "Hide skip button"
+   },
+   "hideSubtitles": {
+      "message": "Hide subtitles"
+   },
+   "hideUi": {
+      "message": "Hide UI"
+   },
+   "markAllNext": {
+      "message": "Mark all next"
+   },
+   "markAllPrevious": {
+      "message": "Mark all previous"
+   },
+   "markAsNotWatched": {
+      "message": "Mark as not watched"
+   },
+   "markAsWatched": {
+      "message": "Mark as watched"
+   },
+   "markOnlyThisOne": {
+      "message": "Mark only this one"
+   },
+   "none": {
+      "message": "None"
+   },
+   "normal": {
+      "message": "Normal"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "openHeaderMenuOnHover": {
+      "message": "Open header menu on hover"
+   },
+   "pictureInPicture": {
+      "message": "Picture-in-Picture"
+   },
+   "playbackRate": {
+      "message": "Playback speed"
+   },
+   "player": {
+      "message": "Player"
+   },
+   "pressAnyKey": {
+      "message": "Press any key"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "restore": {
+      "message": "Restore"
+   },
+   "runnerThumbnail": {
+      "message": "Runner thumbnail"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "scrollbar": {
+      "message": "Scrollbar"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "shortcuts": {
+      "message": "Shortcuts"
+   },
+   "show": {
+      "message": "Show"
+   },
+   "skip": {
+      "message": "Skip"
+   },
+   "skipEvents": {
+      "message": "Skip events"
+   },
+   "skipShortcut": {
+      "message": "Skip"
+   },
+   "skipTo": {
+      "message": "SKIP TO: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "speedDown": {
+      "message": "Speed down"
+   },
+   "speedDownShortcuts": {
+      "message": "Speed down shortcuts"
+   },
+   "speedUp": {
+      "message": "Speed up"
+   },
+   "speedUpShortcuts": {
+      "message": "Speed up shortcuts"
+   },
+   "successfullyBackup": {
+      "message": "Successfully backup."
+   },
+   "successfullyReseted": {
+      "message": "Successfully reseted."
+   },
+   "successfullyRestored": {
+      "message": "Successfully restored."
+   },
+   "theaterMode": {
+      "message": "Theater mode"
+   },
+   "toggleHideUi": {
+      "message": "Toggle hide UI"
+   },
+   "unset": {
+      "message": "Unset"
+   },
+   "value": {
+      "message": "Value"
+   },
+   "whileFullscreen": {
+      "message": "While fullscreen"
+   },
+   "whilePlaying": {
+      "message": "While playing"
+   },
+   "whilePlayingAndFullscreen": {
+      "message": "While playing and fullscreen"
+   },
+   "whilePlayingOrFullscreen": {
+      "message": "While playing or fullscreen"
+   }
+}
